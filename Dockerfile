@@ -1,2 +1,2 @@
 COPY . .
-CMD ["./docker/run-hobby.sh"]
+RUN ./docker/run-hobby.sh
